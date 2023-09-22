@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/JhoanaVicente/jhoanavicente/assets/126072279/1d73de04-1687-468b-a7dd-7dfe2d4346d8" width="880" heigth="80"></p>
+<p align="center"><img src="https://github.com/JhoanaVicente/jhoanavicente/assets/126072279/920505e9-b8ce-47ad-a29e-c9f456d3be82" width="880" heigth="80"></p>
 
 <h1 align="center"> Hi, I am Jhoana Vicente 👋</h1>
 
