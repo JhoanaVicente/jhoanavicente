@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/JhoanaVicente/jhoanavicente/assets/126072279/920505e9-b8ce-47ad-a29e-c9f456d3be82" width="880" heigth="80"></p>
 
-<h1 align="center"> Hi, I am Jhoana Vicente 👋</h1>
+<h1 align="center"> Hi,I am Jhoana Vicente 👋</h1>
 
 <p align="center">I am a diplomatic person, an active and creative attitude, with a proven ability to be effective in what I do, with constant motivation and the ability to collaborate effectively with others. Determined to continue advancing in my professional career, I take advantage of every opportunity to learn and contribute significantly to the world of programming and technology.</p>  
 
